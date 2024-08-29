@@ -1,55 +1,105 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, PHP, MS Excel, Statistics
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Sc., Physics | Guwahati University (_2015-2018_)								       		
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### CUSTOMER CHURN PREDICTOR WTH RANDOM FOREST
+#### Internship Project by Boston Consulting Group
+[Link](https://github.com/SominZex/customer_churn_modeling)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+##### Conducted in-depth research to identify key factors contributing to customer churn.
+##### Executed various statistical and quantitative analyses to uncover insights and patterns.
+##### Developed and trained a Random Forest model to predict customer churn with high accuracy.
+##### End Goal: Enhanced client retention strategies by providing actionable insights and predictive capabilities to reduce customer attrition and optimize business performance.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Customer Churn](/assets/img/customer_churn.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### QUANT/QUAL ANALYSIS & CLASSIFICATION MODELING ON COVID DATA (MULTIPLE ML ALGORITHMS)
+#### Internship Project
+[Link](https://github.com/SominZex/covid_19_ML_Algo)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+##### Utilized **Python** to analyze a comprehensive COVID-19 dataset, employing statistical modeling and hypothesis testing to derive actionable business insights.
+##### Aggregated and visualized data using pandas and Seaborn, producing clear and informative visualizations and a detailed professional report.
+##### Developed a Classification Machine Learning model to categorize COVID-19 severity, enhancing the ability to predict and manage case outcomes effectively.
+##### End Goal: Provided valuable insights and a robust predictive tool to aid in understanding and managing COVID-19 severity, supporting informed decision-making and public health responses.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Covid Study](/assets/img/covid.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### MALARIA DETECTION ALGORITHM (CNN)
+#### Opensource Project
+[Link](https://github.com/SominZex/malaria_detection_cnn)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+##### Conducted data cleaning and preprocessing on 27,000 blood sample images to prepare them for analysis.
+##### Applied Convolutional Neural Networks (CNN) to classify blood samples as parasitic or non-infected.
+##### Achieved a model performance with 99% test accuracy and 94% validation accuracy through rigorous training and evaluation.
+##### End Goal: Developed a highly accurate diagnostic tool to improve malaria detection, aiding in early diagnosis and treatment, and contributing to more effective malaria control strategies.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+[Malaria Detection Algorithm](/assets/img/malaria.jpg)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### PNEUMONIA CLASSIFICATION ALGORITHM WITH CNN
+#### Opensource Project
+[Link](https://github.com/SominZex/pneumonia_prediction_cnn)
+
+##### Fine-tuned DenseNet121 and developed a custom CNN, achieving 91% accuracy with 95% recall for pneumonia detection.
+##### Delivered balanced precision for reliable diagnostics, minimizing false positives and negatives.
+##### End Goal: Created an integration-ready model to support healthcare professionals in accurate and efficient pneumonia diagnosis.
+
+[Pneumonia Detection Algorithm](/assets/img/pneumonia.png)
+
+### WEB SCRAPPING & WEB CLASSIFICATION WITH NLP
+#### Opensource Project
+[Link](https://github.com/SominZex/ultra_scrapper)
+
+##### Utilized MySQL to extract and store data from websites.
+##### Built and trained an NLP model to classify websites based on their metadata.
+##### Developed a web scraper using Selenium and BeautifulSoup for automated data extraction.
+##### End Goal: Enhanced data management and classification efficiency by automating website data extraction and analysis.
+
+[AI Scrapper](/assets/img/scrappingai.png)
+
+### DOG BREED IDENTIFIICATION MODEL WITH CNN
+#### Opensource Project
+[Link](https://github.com/SominZex/CNN_dog_vision)
+
+##### Developed a CNN model to identify 120 different dog breeds.
+##### Trained on 10,000 images and tested on an additional 10,000 images.
+##### Utilized tools for image data visualization and processing.
+##### Achieved 98% test accuracy and 67% validation accuracy, followed by further fine-tuning.
+##### End Goal: Created a high-accuracy model for dog breed identification, with potential for further refinement and real-world application.
+
+[Dog identifier model](/assets/img/dogcnn.png)
+
+## Internship + Skill upgrade
+** Data Science internship @ Careerera (_Oct 2023 - May 2024_)**
+• Acquired practical skills in implementing various machine learning algorithms to meet diverse business requirements.
+• Completed assignments using more than six industry-relevant datasets, applying ML techniques to solve real-world problems.
+• Certificates : [Link](https://test.careerera.com/certificate/sU1tNoIrpnETTfa)
+• Certificate 2 : [Link](https://test.careerera.com/certificate/4kkVet79Kkin4OM)
+
+** Data Science Internship @ Boston Consulting Group (_May 2024 - July 2024_)**
+• Roles & Responsibilities : Analyzing data, Building Predictive model
+• Goals : Minimizing client’s customer churns, optimizing business decisions.
+• Finalization : Successfully trained a model to predict customer churns, reasons for churn is addressed and optimized.
+• Certificate : [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_uTpJqAeA46u2a7feo_1723968794295_completion_certificate.pdf)
+
+
+## Professional Experience (Non Tech)
+#### 4+ YEARS OF EXPERIENCE AS A MOTION GRAPHIC DESIGNER - (2019 - 2023)
+● Exposure to various professional settings is various companies.
+● Delivering creatives, UI/UX, motion graphics and static graphics for websites & social media.
+● Proficient in Adobe creative suite, Adobe After effects, Adobe Photoshop & Adobe Premiere pro.
+● Promotional Content creation for business needs.
+● Portfolio Link : [Link](https://dev-somin.pantheonsite.io/)
+
+#### RECENT COM PANY: BADA BUSINESS PVT. LTD.- NEW DELHI - (2023-2024)
+● Creating promotional videos & short contents.
+● Designing motion graphics to make videos more appealing.
+● Team work with graphics team & video team to meet design requirements.
+● Offer letter : [Link](https://drive.google.com/file/d/1sSBxU72sb60p2Z1IektXG__0D8mPyD-p/view?usp=drivesdk)
+● Relieve letter : [Link](https://drive.google.com/file/d/1sT5zQVVQhzYv0AFQZljNv7f2c_QFGSdl/view?usp=drivesdk)
+
+- [Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
