@@ -1,6 +1,13 @@
 # Data Scientist
+[Portfolio](https://sominzex.github.io/portfolio)
+[LinkedIn](https://www.linkedin.com/in/somin-ramchiary3)
 
-#### Technical Skills: Python, SQL, PHP, MS Excel, Statistics
+#### Technical Skills: 
+- Python 
+- SQL 
+- PHP 
+- MS Excel  
+- Statistics
 
 ## Education
 - B.Sc., Physics | Guwahati University (_2015-2018_)								       		
@@ -106,4 +113,5 @@ Opensource Project
 - Team work with graphics team & video team to meet design requirements.
 - Offer letter : [Link](https://drive.google.com/file/d/1sSBxU72sb60p2Z1IektXG__0D8mPyD-p/view?usp=drivesdk)
 - Relieve letter : [Link](https://drive.google.com/file/d/1sT5zQVVQhzYv0AFQZljNv7f2c_QFGSdl/view?usp=drivesdk)
-- [Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
+
+[Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
