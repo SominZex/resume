@@ -84,11 +84,8 @@ Opensource Project
 ## Internship + Skill upgrade
 #### Data Science internship @ Careerera (_Oct 2023 - May 2024_)
 - Acquired practical skills in implementing various machine learning algorithms to meet diverse business requirements.
-
 - Completed assignments using more than six industry-relevant datasets, applying ML techniques to solve real-world problems.
-
 - Certificates : [Link](https://test.careerera.com/certificate/sU1tNoIrpnETTfa)
-
 - Certificate 2 : [Link](https://test.careerera.com/certificate/4kkVet79Kkin4OM)
 
 
