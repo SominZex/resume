@@ -118,5 +118,5 @@ Opensource Project
 - Reading
 - Coding
 
-[Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
-[Folio-Resume](https://sominzex.github.io/resume_portfolio)
+- [Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
+- [Folio-Resume](https://sominzex.github.io/resume_portfolio)
