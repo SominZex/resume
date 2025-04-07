@@ -120,3 +120,4 @@ Opensource Project
 
 - [Data Science Blog](https://medium.com/@sominzex21/from-chai-breaks-to-code-crashes-the-real-life-of-an-indian-data-scientist-999e176a69bb)
 - [Folio-Resume](https://sominzex.github.io/resume_portfolio)
+- [Google Cloud Certificate](https://www.credly.com/badges/a5a7dc65-4476-447b-bbd5-ac34d895ed51)
