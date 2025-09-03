@@ -96,7 +96,7 @@ Opensource Project
 - Certificate : [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_uTpJqAeA46u2a7feo_1723968794295_completion_certificate.pdf)
 
 
-## Professional Experience (Non Tech)
+## Professional Experience
 #### DATA SCIENTIST AT NEW SHOP - (2024 - PRESENT)
 - Analyzing Data, Building Dashboard for Business Team leaders.
 - Daily, Monthly and half yearly sales performance report generator App development.
