@@ -97,6 +97,14 @@ Opensource Project
 
 
 ## Professional Experience (Non Tech)
+#### DATA SCIENTIST AT NEW SHOP - (2024 - PRESENT)
+- Analyzing Data, Building Dashboard for Business Team leaders.
+- Daily, Monthly and half yearly sales performance report generator App development.
+- Building LLM Based RAG chatbot to do Query based data Analysis.
+- Collaborating with business team to understand business problem statement and build solutions.
+- RAG Chatbot : [Link](https://github.com/SominZex/N6-chatbot)
+- Sales Analysis App : [Link](https://github.com/SominZex/sales_analysis_algorithm)
+
 #### 4+ YEARS OF EXPERIENCE IN MOTION GRAPHIC DESIGN - (2019 - 2023)
 - Exposure to various professional settings is various companies.
 - Delivering creatives, UI/UX, motion graphics and static graphics for websites & social media.
